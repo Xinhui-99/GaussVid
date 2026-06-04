@@ -1,0 +1,38 @@
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# 模型权重 / 数据 / 日志（建议排除，避免文件过大）
+*.pth
+*.ckpt
+*.pt
+*.bin
+*.safetensors
+data/
+datasets/
+checkpoints/
+pretrained/
+logs/
+outputs/
+results/
+wandb/
+
+# 渲染结果
+*.mp4
+*.avi
+*.ply
+*.npz
+
+# 系统/编辑器
+.DS_Store
+*.swp
+.vscode/
+.idea/
+
+# 虚拟环境
+venv/
+env/
+.env
