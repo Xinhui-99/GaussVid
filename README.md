@@ -34,7 +34,7 @@ cp ./wanvideo/model_training/test/cameras
 cp ./wanvideo/model_training/test/clips
 cp ./wanvideo/model_training/experiments/metadata.csv 
 
-# Inference / repair the video clips
+# Inference / repair and evaluate the video clips
 python ./wanvideo/model_training/metric_mm/metric.py 
 ```
 
