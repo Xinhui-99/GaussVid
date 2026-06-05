@@ -47,7 +47,7 @@ We provide part of our experimental results in the [`./wanvideo/model_training/e
 
 ## 🙏 Acknowledgments
 
-Thanks to these great repositories: [3D Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting), [Wan2.1](https://github.com/Wan-Video/Wan2.1) and [DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio).
+Thanks to these great repositories: [3D Gaussian Splatting](https://github.com/graphdeco-inria/gaussian-splatting), [EasyControl](https://openaccess.thecvf.com/content/ICCV2025/html/Zhang_EasyControl_Adding_Efficient_and_Flexible_Control_for_Diffusion_Transformer_ICCV_2025_paper.html),[Wan2.1](https://github.com/Wan-Video/Wan2.1) and [DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio).
 
 ---
 
