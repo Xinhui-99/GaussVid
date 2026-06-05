@@ -51,15 +51,4 @@ Thanks to these great repositories: [3D Gaussian Splatting](https://github.com/g
 
 ---
 
-## 🔗 Citation
 
-If you find our work helpful, please cite it:
-
-```bibtex
-@article{gaussvid,
-    title={GaussVid: Sparse-View Gaussian Splatting with 3D-Aware Video Diffusion Priors},
-    author={<Author List>},
-    journal={arXiv preprint arXiv:XXXX.XXXXX},
-    year={2025}
-}
-```
