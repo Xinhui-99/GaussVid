@@ -42,7 +42,7 @@ python ./wanvideo/model_training/metric_mm/metric.py
 ---
 ## 📊 Results
 
-We provide part of our experimental results in the [`./wanvideo/model_training/experiments`](./wanvideo/model_training/experiments) folder, including rendered clips and evaluation metrics.
+We provide part of our experimental results in the [`./wanvideo/model_training/experiments`](./wanvideo/model_training/experiments) folder, including rendered, restored clips,  and evaluation metrics.
 
 
 ## 🙏 Acknowledgments
